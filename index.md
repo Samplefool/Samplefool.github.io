@@ -2,13 +2,14 @@
 
 ---
 
-### Below are a few projects I have done throughout my GIS schooling
+### ARCGIS Pro Projects
 
 [Multi-Criterion Decision Analysis](/sample_page)
 <img src="images/4.PNG?raw=true"/>
 
----
-[Interpolation](/pdf/sample_presentation.pdf)
+
+[Interpolation]
+
 <img src="images/5.PNG?raw=true"/>
 
 ---
