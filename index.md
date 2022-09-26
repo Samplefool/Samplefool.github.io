@@ -12,7 +12,8 @@
 <img src="images/5.PNG?raw=true"/>
 
 ---
-[Project 3 Title](/pdf/SGiorgi_GIS5653_Project.pdf)
+### Python Programming
+[Colorado Springs, Colorado Land Use Change](/pdf/SGiorgi_GIS5653_Project.pdf)
 <img src="images/6.PNG?raw=true"/>
 
 ---
