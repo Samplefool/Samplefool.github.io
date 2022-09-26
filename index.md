@@ -8,7 +8,7 @@
 <img src="images/4.PNG?raw=true"/>
 
 
-[Interpolation](/pdf/Interpolation.pdf)
+[Interpolation](/pdf/Interpolation1.pdf)
 
 <img src="images/5.PNG?raw=true"/>
 
