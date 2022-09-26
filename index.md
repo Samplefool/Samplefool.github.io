@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Below are a few projects I have done throughout my GIS schooling
 
 [Multi-Criterion Decision Analysis](/sample_page)
 <img src="images/4.PNG?raw=true"/>
