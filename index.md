@@ -1,14 +1,14 @@
-## Portfolio
+## GIS Projects
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Multi-Criterion Decision Analysis](/sample_page)
 <img src="images/4.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Interpolation](/pdf/sample_presentation.pdf)
 <img src="images/5.PNG?raw=true"/>
 
 ---
