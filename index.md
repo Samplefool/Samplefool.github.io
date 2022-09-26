@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="pdf/SGiorgi_GIS5653_Project.pdf?raw=true"/>
+<img src="pdf/SGiorgi_GIS5653_Project.PDF?raw=true"/>
 
 ---
 
