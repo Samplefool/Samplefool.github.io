@@ -4,11 +4,11 @@
 
 ### ARCGIS Pro Projects
 
-[Multi-Criterion Decision Analysis](/sample_page)
+[Multi-Criterion Decision Analysis](/pdf/SGiorgi_GIS5253_Lab4.pdf)
 <img src="images/4.PNG?raw=true"/>
 
 
-[Interpolation]
+[Interpolation](/pdf/Interpolation.pdf)
 
 <img src="images/5.PNG?raw=true"/>
 
