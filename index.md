@@ -1,4 +1,4 @@
-## GIS Projects
+## Project Examples
 
 ---
 
