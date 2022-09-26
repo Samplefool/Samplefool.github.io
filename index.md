@@ -12,8 +12,8 @@
 <img src="images/5.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="pdf/SGiorgi_GIS5653_Project.pdf?raw=true"/>
+[Project 3 Title](/pdf/SGiorgi_GIS5653_Project.pdf)
+<img src="images/6.PNG?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
