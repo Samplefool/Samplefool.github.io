@@ -18,7 +18,7 @@
 <img src="images/6.PNG?raw=true"/>
 ---
 ### GIS Online
-[Heat index and associated impervious surfaces]"/images/IMG_0360.jpg?raw=true"
+[Heat index and associated impervious surfaces](/pdf/Doc1.pdf)
 
 (https://uok.maps.arcgis.com/home/item.html?id=7044bd37602840a78c8af003bb9577c7)
 ---
