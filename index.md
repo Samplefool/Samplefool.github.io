@@ -18,9 +18,8 @@
 <img src="images/6.PNG?raw=true"/>
 ---
 ### GIS Online
-[Heat index and associated impervious surfaces](/pdf/Doc1.pdf)
-
-(https://uok.maps.arcgis.com/home/item.html?id=7044bd37602840a78c8af003bb9577c7)
+[Heat index and associated impervious surfaces](https://uok.maps.arcgis.com/home/item.html?id=7044bd37602840a78c8af003bb9577c7)
+<img src="images/bragg.PNG?raw=true"/>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
