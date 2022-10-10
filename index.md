@@ -25,7 +25,7 @@
 <img src="images/bragg.PNG?raw=true"/>
 
 [Burn Index Ratio at the Kincade Fire near Geyserville, CA 2019](https://code.earthengine.google.com/c664ae1ef2cd355d778c5ad00f231d7b)
-<img src="images/bragg.PNG?raw=true"/>
+<img src="images/kincade.PNG?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
