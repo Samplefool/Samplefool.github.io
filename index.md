@@ -24,7 +24,7 @@
 [Heat index and associated impervious surfaces of Fort Bragg, NC and surrounding area](https://uok.maps.arcgis.com/home/item.html?id=7044bd37602840a78c8af003bb9577c7)
 <img src="images/bragg.PNG?raw=true"/>
 
-[Burn Index Ratio at the Kincade Fire near Geyserville, CA 2019]([https://code.earthengine.google.com/c664ae1ef2cd355d778c5ad00f231d7b](https://SteveGio.users.earthengine.app/view/burn-index)
+[Burn Index Ratio at the Kincade Fire near Geyserville, CA 2019](https://SteveGio.users.earthengine.app/view/burn-index)
 <img src="images/kincade.PNG?raw=true"/>
 
 ---
